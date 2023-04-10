@@ -1,2 +1,6 @@
-# Personal Portofolio
-Ini adalah website buatan pertama yang saya buat dari nol yang hanya menggunakan HTML dan CSS Tailwind dengan sedikit Javascript
+# Description
+My first website built using basic HTML, CSS and Javascript.
+
+
+
+
