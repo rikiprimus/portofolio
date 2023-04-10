@@ -17,6 +17,3 @@ No need for setup because it doesn't use any framework
 
 ## Thanks
 If you like this portfolio template don't forget give it a ⭐
-
-
-
